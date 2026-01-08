@@ -34,4 +34,4 @@
 <p></p>
 
 _“Good judgement comes from experience, and experience comes from bad judgement.”_
-_“For your family, for yourself, and for your dreams, always keep striving and never give up..”_
+“For your family, for yourself, and for your dreams, always keep striving and never give up..”_
