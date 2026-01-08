@@ -1,4 +1,4 @@
-![z3530114039749_a40ff93ed05748ea2f2322fb4936ac3a](https://github.com/user-attachments/assets/366638c3-6f86-402d-9a20-7b4b49630adc)<img width="3822" height="1080" alt="image" src="https://github.com/user-attachments/assets/6f2fbfcc-fa2c-43bd-b58c-8397fbae7d5d" />
+<img width="3822" height="1080" alt="image" src="https://github.com/user-attachments/assets/6f2fbfcc-fa2c-43bd-b58c-8397fbae7d5d" />
 
 <a href="https://discord.com/users/thenvkhoadev"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/></a>
 <a href="https://www.facebook.com/nvkhoadev/"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white" alt="Facebook"/></a>
@@ -39,4 +39,3 @@ Get up, try again. And be here again.
 That's life. Strumble, get up and try again. And fight for dreams.”_
 
 <img width="3822" height="1080" alt="image" src="https://github.com/user-attachments/assets/33c246b9-db44-4f29-8a6a-fa7567d588d6" />
-
