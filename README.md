@@ -1,4 +1,4 @@
-<img width="3822" height="1080" alt="image" src="https://github.com/user-attachments/assets/6f2fbfcc-fa2c-43bd-b58c-8397fbae7d5d" />
+<img width="3822" height="1080" alt="image" src="https://github.com/user-attachments/assets/72757524-db8e-46b2-8f4a-c40b9e0db878" />
 
 <a href="https://discord.com/users/thenvkhoadev"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/></a>
 <a href="https://www.facebook.com/nvkhoadev/"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white" alt="Facebook"/></a>
@@ -36,6 +36,7 @@
 _“Good judgement comes from experience, and experience comes from bad judgement. 
 For your family, for yourself, and for your dreams, always keep striving and never give up. 
 Get up, try again. And be here again.
-That's life. Strumble, get up and try again. And fight for dreams.”_
+That's life. Strumble, get up and try again. And fight for dreams.”_ 
 
-<img width="3822" height="1080" alt="image" src="https://github.com/user-attachments/assets/33c246b9-db44-4f29-8a6a-fa7567d588d6" />
+<img width="3822" height="1080" alt="image" src="https://github.com/user-attachments/assets/2378927f-f4a1-46b3-895b-c5da6595e282" />
+
