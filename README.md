@@ -1,4 +1,4 @@
-<img width="3822" height="1080" alt="image" src="https://github.com/user-attachments/assets/bf9293f4-0548-4487-81ab-9c6177bfbf62" />
+<img width="3822" height="1080" alt="image" src="https://github.com/user-attachments/assets/869f0436-808c-4d19-88fc-d7dae25dc368" />
 
 <a href="https://discord.com/users/thenvkhoadev"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/></a>
 <a href="https://www.facebook.com/nvkhoadev/"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white" alt="Facebook"/></a>
@@ -29,8 +29,9 @@
 <img src="https://img.shields.io/badge/-C%23-brightgreen?logo=C%2B%2B&logoColor=white&style=for-the-badge" alt="C#" />
 <img src="https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge" alt="MSSQL" />
 
-<p><a href="https://www.buymeacoffee.com/hayamij"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="40" width="210" alt="hayamij" /></a></p><br><br>
+<p><a href="https://www.buymeacoffee.com/nvkhoadev"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="40" width="210" alt="nvkhoadev" /></a></p><br><br>
 
 <p></p>
 
 _“Good judgement comes from experience, and experience comes from bad judgement.”_
+_“For your family, for yourself, and for your dreams, always keep striving and never give up..”_
