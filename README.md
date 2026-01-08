@@ -2,7 +2,9 @@
 
 
 ## 🚀 About Me
-My name is Nguyen Vu Khoa. I'm a Back-end developer,...
+My name is Nguyen Vu Khoa. I'm a Back-end developer,I am a guy from the land of 85 - Ninh Thuận. Currently, I am studying and living in Ho Chi Minh City. I have a passion for coding, football, and supercars. My plan and dream for the future are to earn a lot of money, explore the world, and own a supercar for myself.
+
+# WELCOME TO MY PROFILE 🎉
 
 <img width="3822" height="1080" alt="image" src="https://github.com/user-attachments/assets/72757524-db8e-46b2-8f4a-c40b9e0db878" />
 
