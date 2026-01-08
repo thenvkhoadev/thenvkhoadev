@@ -1,4 +1,4 @@
-<img width="3822" height="1080" alt="image" src="https://github.com/user-attachments/assets/6f2fbfcc-fa2c-43bd-b58c-8397fbae7d5d" />
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/6f2fbfcc-fa2c-43bd-b58c-8397fbae7d5d" />
 
 <a href="https://discord.com/users/thenvkhoadev"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/></a>
 <a href="https://www.facebook.com/nvkhoadev/"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white" alt="Facebook"/></a>
