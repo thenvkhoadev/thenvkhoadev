@@ -1,3 +1,9 @@
+# Hi, I'm NvkhoaDev! 👋
+
+
+## 🚀 About Me
+My name is Nguyen Vu Khoa. I'm a Back-end developer,...
+
 <img width="3822" height="1080" alt="image" src="https://github.com/user-attachments/assets/72757524-db8e-46b2-8f4a-c40b9e0db878" />
 
 <a href="https://discord.com/users/thenvkhoadev"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/></a>
