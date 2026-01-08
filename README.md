@@ -8,7 +8,7 @@ My name is Nguyen Vu Khoa. I'm a Back-end developer,I am a guy from the land of 
 
 <img width="3822" height="1080" alt="image" src="https://github.com/user-attachments/assets/72757524-db8e-46b2-8f4a-c40b9e0db878" />
 
-<a href="https://discord.com/users/thenvkhoadev"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/></a>
+<a href="https://discord.com/users/1165297680726110218"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/></a>
 <a href="https://www.facebook.com/nvkhoadev/"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white" alt="Facebook"/></a>
 <a href="https://www.instagram.com/nvkhoadev/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/></a>
 [![GitHub](https://img.shields.io/badge/GitHub-thenvkhoadev-black?style=for-the-badge&logo=github)](https://github.com/thenvkhoadev)
