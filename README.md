@@ -38,5 +38,3 @@ For your family, for yourself, and for your dreams, always keep striving and nev
 Get up, try again. And be here again.
 That's life. Strumble, get up and try again. And fight for dreams.”_ 
 
-<img width="3822" height="1080" alt="image" src="https://github.com/user-attachments/assets/2378927f-f4a1-46b3-895b-c5da6595e282" />
-
