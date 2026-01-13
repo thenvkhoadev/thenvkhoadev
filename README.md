@@ -13,8 +13,9 @@ My name is Nguyen Vu Khoa. I'm a Back-end developer,I am a guy from the land of 
 <a href="https://www.facebook.com/nvkhoadev/"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white" alt="Facebook"/></a>
 <a href="https://www.instagram.com/nvkhoadev/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/></a>
 <a href="https://www.linkedin.com/in/nvkhoadev/">
-  <img src="https://img.shields.io/badge/Linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
+
 [![GitHub](https://img.shields.io/badge/GitHub-thenvkhoadev-black?style=for-the-badge&logo=github)](https://github.com/thenvkhoadev)
 [![Email](https://img.shields.io/badge/Email-thenvkhoadev@gmail.com-red?style=for-the-badge&logo=gmail)](mailto:thenvkhoadev@gmail.com)
 
