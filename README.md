@@ -50,6 +50,6 @@ For your family, for yourself, and for your dreams, always keep striving and nev
 Get up, try again. And be here again.
 That's life. Strumble, get up and try again. And fight for dreams.”_ 
 
-[![Stargazers over time](https://starchart.cc/Naereen/badges.svg)](https://starchart.cc/Naereen/badges)
+[![Stargazers over time](https://starchart.cc/thenvkhoadev/badges.svg)](https://starchart.cc/thenvkhoadev/badges)
 
 
