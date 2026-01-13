@@ -18,6 +18,7 @@ My name is Nguyen Vu Khoa. I'm a Back-end developer,I am a guy from the land of 
 
 [![GitHub](https://img.shields.io/badge/GitHub-thenvkhoadev-black?style=for-the-badge&logo=github)](https://github.com/thenvkhoadev)
 [![Email](https://img.shields.io/badge/Email-thenvkhoadev@gmail.com-red?style=for-the-badge&logo=gmail)](mailto:thenvkhoadev@gmail.com)
+[![linkedin](https://linkedin-github-readme.onrender.com/api/render/Nguyễn%20Vũ%20Khoa/Backend%20Developer/Intern/Bachelors/dark/https%3A%2F%2Fscontent.fsgn2-6.fna.fbcdn.net%2Fv%2Ft39.30808-6%2F600528163_1388976546223101_2894836132747599077_n.jpg%3F_nc_cat%3D110%26ccb%3D1-7%26_nc_sid%3D6ee11a%26_nc_ohc%3DuW_Jj89vKBkQ7kNvwGs3eTM%26_nc_oc%3DAdm8Q9ym39aIcLRyuZ4o4cJDasVD0ig9Bd2uvXFSkde-h6LaSYCGoHqaC99GGbWek9SUttd2hfFoL1QvId9K_9s6%26_nc_zt%3D23%26_nc_ht%3Dscontent.fsgn2-6.fna%26_nc_gid%3DDziMwX1zU41BeTCu9JDbEA%26oh%3D00_AfqTQCpksflTajSArF4MhRMjIdVmMWGXxzEcWmuDfWqmUw%26oe%3D696C1089)](linkedin.com/in/nvkhoadev)
 
 <image height="180" align="left" src="https://github-readme-stats-one-bice.vercel.app/api?username=thenvkhoadev&count_private=true&theme=radical&show_icons=true"/>
 <image height="180" alight="left" src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=thenvkhoadev&layout=compact&langs_count=8&theme=radical&role=OWNER,COLLABORATOR"/>
